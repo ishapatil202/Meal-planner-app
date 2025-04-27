@@ -1,7 +1,7 @@
 Meal Planner Application
 A full-stack Meal Planner web application built using Node.js, Express.js, MongoDB with Mongoose, and Svelte.js. The application allows users to create personalized meal plans by searching and adding meals from the Spoonacular API. It incorporates secure authentication, dynamic meal visualization, and persistent storage.
 
-Features
+**Features**
 User authentication and authorization using JWT (JSON Web Tokens)
 
 Search for meals using the Spoonacular API based on user preferences
@@ -16,7 +16,7 @@ Dynamic and responsive frontend developed with Svelte.js
 
 Layered backend architecture following best practices
 
-Tech Stack
+**Tech Stack**
 Node.js, Express.js (Backend)
 
 MongoDB, Mongoose (Database)
@@ -27,7 +27,7 @@ Spoonacular API (Meal Data)
 
 JWT (Authentication)
 
-Project Structure
+**Project Structure**
 The project was built incrementally across three phases:
 
 Homework 1: Developed a Node.js server with RESTful API routes and integrated the Spoonacular API using mock user and meal plan data.
